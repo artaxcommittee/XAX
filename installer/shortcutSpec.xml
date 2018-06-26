@@ -1,0 +1,35 @@
+<shortcuts>
+	<skipIfNotSupported/>
+	<defaultCurrentUser/>
+	<programGroup defaultName="XAX" location="startMenu"/>
+	<shortcut
+		name="XAX Server"
+		target="$INSTALL_PATH\xax.exe"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Start XAX server"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no">
+	</shortcut>	
+	<shortcut
+		name="XAX Wallet"
+		target="http://localhost:7876/index.html"
+		commandLine=""
+		workingDirectory="$INSTALL_PATH"
+        description="Launch XAX wallet in browser"
+		iconFile="$INSTALL_PATH\html\www\favicon.ico"
+        iconIndex="0"
+        initialState="normal"
+        programGroup="yes"
+		desktop="yes"
+        applications="no"
+        startMenu="no"
+		startup="no">
+	</shortcut>	
+</shortcuts>

@@ -1,0 +1,29 @@
+This is a list of current and past developers working on the XAX core software,
+in order approximately corresponding to the time they joined the team.
+
+
+
+Squarx
+Wesley
+wwesley@tutanota.de
+
+Dany_CX
+Ronald Hoffman (ScripterRon)
+ronald.hoffman6@gmail.com
+
+Ralvcd
+Alexander Chepurnoy (kushti)
+kushtech@yahoo.com
+
+Hindra (lyaffe)
+lyaffe@gmail.com
+
+#Dev-Committee (Discord)
+StakesandNodes
+cryptodude
+ihackcoins
+osfera69
+Ryless
+Blitzbit
+Hectic
+
