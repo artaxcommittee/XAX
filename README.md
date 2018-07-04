@@ -3,6 +3,10 @@
 
 ## README
 
+Copyright © 2017-2018 The XAX Core Developers.
+Copyright © 2013-2016 NXT.
+Copyright © 2016-2017 Jelurida IP B.V.
+
  - Artax is a natural evolution of blockchain technology.
    Bitcoin pioneered the creation of crypto-currency and even now, 6
    years later, most blockchain systems either rely on Bitcoin itself or
